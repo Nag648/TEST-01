@@ -1,0 +1,4 @@
+Explain the concept of React state and how it differs from props.
+
+
+ difference between state and props is that state is managed within a component, while props are passed from a parent component to a child component. State is used to manage internal component data, while props are used to pass data from a parent component to a child component.
